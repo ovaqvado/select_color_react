@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+  }
+  
+  .Say {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-direction: column;
+  }
